@@ -447,5 +447,5 @@ output_path = os.path.join(BASE_DIR, "final_map.html")
 with open(output_path, "w", encoding="utf-8") as f:
     f.write(html)
 
-print("Готово:")
+
 print(output_path)
