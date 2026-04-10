@@ -1,0 +1,18 @@
+
+
+
+station_name,latitude,longitude,type,district
+Almaly_1,43.2565,76.9285,Air Station,Almaly
+Almaly_2,43.2470,76.9150,Metro,Almaly
+Auezov_1,43.2260,76.8500,Air Station,Auezov
+Auezov_2,43.2300,76.8350,Bus Station,Auezov
+Bostandyk_1,43.2150,76.9000,Metro,Bostandyk
+Bostandyk_2,43.2100,76.8800,Weather Station,Bostandyk
+Medeu_1,43.1700,77.0500,Air Station,Medeu
+Medeu_2,43.1800,77.0300,Metro,Medeu
+Turksib_1,43.3400,76.9500,Air Station,Turksib
+Turksib_2,43.3300,76.9400,Bus Station,Turksib
+Alatau_1,43.2500,76.7500,Metro,Alatau
+Alatau_2,43.2600,76.7400,Weather Station,Alatau
+Nauryzbay_1,43.2000,76.7800,Air Station,Nauryzbay
+Nauryzbay_2,43.1900,76.7700,Bus Station,Nauryzbay
